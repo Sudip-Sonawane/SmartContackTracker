@@ -82,7 +82,7 @@ public class User implements UserDetails {
     }
 
     // for this project:
-    // email id hai wahi hamare username
+    // email id same as above
 
     @Override
     public String getUsername() {
